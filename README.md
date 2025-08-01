@@ -13,8 +13,9 @@ SHA256 hashing protocol
 - GTA5 can game files can be compressed and hashed :
 - **Output :**
 
-
+```
 ba7816bf8f01cfea414140de5dae2223b00361a396177a9cb410ff61f20015ad
+```
 
 
 - You can also sign them and have a private password / key to decode or encode properly your desired file
