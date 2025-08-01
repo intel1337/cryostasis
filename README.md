@@ -1,7 +1,8 @@
 # Cryostasis
 
-## Cryostasis inspired from actual cryostasis tests made on humans
-is a project that takes file compression to it's further.
+## Cryostasis inspired from
+**Actual cryostasis tests made on humans
+is a project that takes file compression to it's further.**
 
 ## Why ?
 with the upcoming quantic computing, dehashing SHA256 and +  are gonna be more than theoritically possible
